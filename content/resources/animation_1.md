@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 7.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-103-science-and-policy-of-natural-hazards-spring-2010/782b9a15e236a98661660d70267bc906_animation_1.avi
+file: /media/courses/12-103-science-and-policy-of-natural-hazards-spring-2010/782b9a15e236a98661660d70267bc906_animation_1.avi
 file_type: video/x-msvideo
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: animation_1.avi
 uid: 782b9a15-e236-a986-6166-0d70267bc906
