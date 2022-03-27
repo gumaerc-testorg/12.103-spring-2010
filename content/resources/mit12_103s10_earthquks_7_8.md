@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5755ccdc-b957-0ee7-58e6-7cbb488bced7
 resourcetype: Document
 title: MIT12_103S10_earthquks_7_8.pdf
 uid: e10e24bd-9a9e-319c-e287-71417a1d25b9

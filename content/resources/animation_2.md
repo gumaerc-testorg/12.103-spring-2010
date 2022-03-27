@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5755ccdc-b957-0ee7-58e6-7cbb488bced7
 resourcetype: Other
 title: animation_2.mov
 uid: 04f6fc87-4d39-346b-2fc1-7af9e26b3835

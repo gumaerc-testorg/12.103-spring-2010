@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 986cc5ef-513a-dc32-be9e-75f13b75bd96
 resourcetype: Document
 title: MIT12_103S10_Earthquake_ps.pdf
 uid: 41c17c40-9ba7-aa0c-821d-220218b513cb

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 986cc5ef-513a-dc32-be9e-75f13b75bd96
 resourcetype: Document
 title: MIT12_103S10_hurricane_ps.pdf
 uid: 199ab533-1d60-d80f-e544-73d6dae3479d

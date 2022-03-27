@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5755ccdc-b957-0ee7-58e6-7cbb488bced7
 resourcetype: Document
 title: MIT12_103S10_volcanoes_9.pdf
 uid: b371ca23-c5c5-93f8-77a6-050e5c8d3ce1

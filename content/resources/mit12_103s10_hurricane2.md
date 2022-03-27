@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5755ccdc-b957-0ee7-58e6-7cbb488bced7
 resourcetype: Document
 title: MIT12_103S10_hurricane2.pdf
 uid: b189d770-60cb-f69a-ebd6-c6b9c709587f
