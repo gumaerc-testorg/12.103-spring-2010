@@ -6,6 +6,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/5dc66522
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT12_103S10_hurricane3.pdf
 uid: 5dc66522-8da5-7ad1-2821-f195681a3723
 ---
 This resource provides information related to computational models of hurricanes.
-

@@ -5,6 +5,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/b7c2ef9d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_103S10_tornado_1_2.pdf
 uid: b7c2ef9d-e3c4-7b85-f155-807d01276d08
 ---
 This resource contains information related to tornado overview.
-

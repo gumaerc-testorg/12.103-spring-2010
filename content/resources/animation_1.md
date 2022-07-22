@@ -5,6 +5,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/782b9a15
 file_type: video/x-msvideo
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: animation_1.avi
 uid: 782b9a15-e236-a986-6166-0d70267bc906
 ---
 This is a supporting file for lecture 7.
-

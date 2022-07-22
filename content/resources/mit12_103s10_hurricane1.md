@@ -5,6 +5,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/bc682170
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_103S10_hurricane1.pdf
 uid: bc682170-1272-7e9b-facd-d93d0b22adcb
 ---
 This resource contains information related to tropical cyclones.
-

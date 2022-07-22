@@ -5,6 +5,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/60474910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_103S10_tornado_8.pdf
 uid: 60474910-9fb9-3d2b-1432-21660f85f584
 ---
 This resource contains information related to forecasting tornadoes.
-

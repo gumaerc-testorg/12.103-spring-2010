@@ -6,6 +6,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/f2c53968
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT12_103S10_tornado_6.pdf
 uid: f2c53968-d369-a0ab-0c0e-b4ab6559cc9d
 ---
 This resource contains information related to mesoscale organization of convection.
-

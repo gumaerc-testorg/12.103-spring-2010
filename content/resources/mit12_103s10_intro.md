@@ -5,6 +5,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/fc88795e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_103S10_Intro.pdf
 uid: fc88795e-e795-5423-f2d2-0b9e3d74dfaf
 ---
 This resource provides information related to introduction.
-

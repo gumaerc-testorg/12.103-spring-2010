@@ -5,6 +5,7 @@ file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/7b8de46a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_103S10_earthquakes_2.pdf
 uid: 7b8de46a-f06a-bb6d-b377-509b158b0f96
 ---
 This resource contains information related to seismic waves.
-
