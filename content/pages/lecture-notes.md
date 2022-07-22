@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes and supporting animations.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5755ccdc-b957-0ee7-58e6-7cbb488bced7
 ---
@@ -28,7 +33,7 @@ FILES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.2MB]({{< baseurl >}}/resources/mit12_103s10_intro))
+({{% resource_link fc88795e-e795-5423-f2d2-0b9e3d74dfaf "PDF - 3.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Introduction
 Earthquakes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_earthquakes_1))
+({{% resource_link f1c6bf1c-003b-d817-06ca-2df9741f1751 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Earthquakes
 Seismic waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_earthquakes_2))
+({{% resource_link 7b8de46a-f06a-bb6d-b377-509b158b0f96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Seismic waves
 Earthquake kinematics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_earthquakes_3))
+({{% resource_link 3a50bb47-d584-a495-12b7-5e6aa09fbc1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Earthquake kinematics
 Earthquake dynamics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit12_103s10_earthquks_4_5))
+({{% resource_link 4240932d-86a2-c1e5-c02e-a3563551fc63 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,11 +101,11 @@ Associated phenomena: Tsunami
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit12_103s10_earthquakes_6))
+({{% resource_link eefc3af7-5ba1-71c5-70e0-813ab3936534 "PDF" %}})
 
-([AVI - 4.0MB]({{< baseurl >}}/resources/animation_1)) (Courtesy of NOAA.)
+({{% resource_link 782b9a15-e236-a986-6166-0d70267bc906 "AVI - 4.0MB" %}}) (Courtesy of NOAA.)
 
-([MOV - 48.1MB]({{< baseurl >}}/resources/animation_2)) (Courtesy of NOAA.)
+({{% resource_link 04f6fc87-4d39-346b-2fc1-7af9e26b3835 "MOV - 48.1MB" %}}) (Courtesy of NOAA.)
 
 
 {{< tdclose >}}
@@ -114,7 +119,7 @@ Associated phenomena: Tsunami
 Earthquake preparedness and warning systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_earthquks_7_8))
+({{% resource_link e10e24bd-9a9e-319c-e287-71417a1d25b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Earthquake preparedness and warning systems
 Tropical cyclones
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.0MB]({{< baseurl >}}/resources/mit12_103s10_hurricane1))
+({{% resource_link bc682170-1272-7e9b-facd-d93d0b22adcb "PDF - 3.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ Tropical cyclones
 The tropical atmosphere: Hurricane incubator
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mit12_103s10_hurricane2))
+({{% resource_link b189d770-60cb-f69a-ebd6-c6b9c709587f "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ The tropical atmosphere: Hurricane incubator
 Computational models of hurricanes
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit12_103s10_hurricane3))
+({{% resource_link 5dc66522-8da5-7ad1-2821-f195681a3723 "PDF - 2.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Computational models of hurricanes
 Volcano overview
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6MB]({{< baseurl >}}/resources/mit12_103s10_volcanoes_1_3))
+({{% resource_link aecb94d1-bdee-bd7b-8c80-ba205026a217 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Volcano overview
 Magma generation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_volcanoes_4))
+({{% resource_link b18d8014-be9e-434c-a353-42864b921663 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Magma generation
 Magma ascent and eruption
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_volcanoes_5))
+({{% resource_link 0749fdd5-8fcd-f1e9-763a-02b11a7e1867 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Magma ascent and eruption
 Volcanic hazards
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.7MB]({{< baseurl >}}/resources/mit12_103s10_volcanoes_6_8))
+({{% resource_link f549ecda-08fe-571e-c40f-c37eb5d952bd "PDF - 2.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Volcanic hazards
 Volcano hazards (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_volcanoes_9))
+({{% resource_link b371ca23-c5c5-93f8-77a6-050e5c8d3ce1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +245,7 @@ Volcano hazards (cont.)
 Tornado overview
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit12_103s10_tornado_1_2))
+({{% resource_link b7c2ef9d-e3c4-7b85-f155-807d01276d08 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +257,7 @@ Tornado overview
 Moist convection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_3))
+({{% resource_link 695b5a35-1109-6986-0e30-d0f6c489f1b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +269,7 @@ Moist convection
 Stability assessment
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_4))
+({{% resource_link 19b49217-548c-0f26-b4c0-e14355a643d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +281,7 @@ Stability assessment
 Thunderstorms
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_5))
+({{% resource_link 5fd23966-7628-3381-88b2-8e0e6231e8ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +293,7 @@ Thunderstorms
 Mesoscale organization of convection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_6))
+({{% resource_link f2c53968-d369-a0ab-0c0e-b4ab6559cc9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +305,7 @@ Mesoscale organization of convection
 Supercells and tornadoes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_7))
+({{% resource_link c0dbb75e-0aef-c8b8-3160-94856905bf66 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +317,7 @@ Supercells and tornadoes
 Forecasting tornadoes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_103s10_tornado_8))
+({{% resource_link 60474910-9fb9-3d2b-1432-21660f85f584 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
