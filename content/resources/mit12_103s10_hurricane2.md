@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to the tropical atmosphere:
   hurricane incubator.'
 file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/b189d77060cbf69aebd6c6b9c709587f_MIT12_103S10_hurricane2.pdf
+file_size: 1782425
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
