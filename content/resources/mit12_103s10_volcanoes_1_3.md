@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information related to volcano overview.
-file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/aecb94d1bdeebd7b8c80ba205026a217_MIT12_103S10_volcanoes_1_3.pdf
+file: /ol-ocw-studio-app/courses/12-103-science-and-policy-of-natural-hazards-spring-2010/aecb94d1bdeebd7b8c80ba205026a217_MIT12_103S10_volcanoes_1_3.pdf
 file_size: 1647846
 file_type: application/pdf
 learning_resource_types:
