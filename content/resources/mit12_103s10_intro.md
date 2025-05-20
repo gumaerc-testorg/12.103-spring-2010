@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information related to introduction.
-file: /ol-ocw-studio-app/courses/12-103-science-and-policy-of-natural-hazards-spring-2010/fc88795ee7955423f2d20b9e3d74dfaf_MIT12_103S10_Intro.pdf
+file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/fc88795ee7955423f2d20b9e3d74dfaf_MIT12_103S10_Intro.pdf
 file_size: 3400226
 file_type: application/pdf
 learning_resource_types:
