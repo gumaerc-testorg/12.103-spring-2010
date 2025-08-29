@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to earthquakes.
-file: /courses/12-103-science-and-policy-of-natural-hazards-spring-2010/41c17c409ba7aa0c821d220218b513cb_MIT12_103S10_Earthquake_ps.pdf
+file: /ol-ocw-studio-app/courses/12-103-science-and-policy-of-natural-hazards-spring-2010/41c17c409ba7aa0c821d220218b513cb_MIT12_103S10_Earthquake_ps.pdf
 file_size: 123377
 file_type: application/pdf
 learning_resource_types:
